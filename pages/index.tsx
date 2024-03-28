@@ -62,7 +62,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
               <a href="mailto:bunny@soulshine.ink" className="block underline">Bunny@soulshine.ink</a>
             </div>
             <div className="mt-2">
-              <a href="tel:123-234-3322" className="block text-white/75 underline">123-234-3322</a>
+              <a href="tel:123-234-3322" className="block text-white/75 underline">678-523-4591</a>
             </div>
           </div>
         </div>
